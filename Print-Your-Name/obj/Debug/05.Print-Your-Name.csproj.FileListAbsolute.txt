@@ -1,0 +1,2 @@
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.pdb

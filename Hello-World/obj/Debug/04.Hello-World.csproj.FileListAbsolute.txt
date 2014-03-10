@@ -1,0 +1,2 @@
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.pdb
