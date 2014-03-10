@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2FB5CFC-E2F2-4009-BDD6-724841DEDA69}</ProjectGuid>
+    <ProjectGuid>{25ED0AC5-41B4-447E-8B2E-C952499FC1E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Hello_World</RootNamespace>
-    <AssemblyName>Hello-World</AssemblyName>
+    <RootNamespace>Print_Your_Name</RootNamespace>
+    <AssemblyName>Print-Your-Name</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelloCSharp.cs" />
+    <Compile Include="PrintMyName.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

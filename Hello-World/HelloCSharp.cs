@@ -1,8 +1,9 @@
 ﻿using System;
 
-    class HelloWorld
+    class HelloCSharp
     {
         static void Main()
         {
+            Console.WriteLine("Hello C#");
         }
     }
