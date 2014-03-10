@@ -1,10 +1,9 @@
 ﻿using System;
 
-    class PrintFirstandLastName
+    class PrintFirstAndLastName
     {
         static void Main()
         {
-            Console.WriteLine("Velizar");
-            Console.WriteLine("Valkov");
+            Console.WriteLine("Velizar\nValkov");
         }
     }
