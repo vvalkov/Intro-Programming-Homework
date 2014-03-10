@@ -1,0 +1,5 @@
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.pdb
