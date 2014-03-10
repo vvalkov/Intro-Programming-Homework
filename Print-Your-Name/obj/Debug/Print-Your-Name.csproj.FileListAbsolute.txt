@@ -1,1 +1,5 @@
-C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Your-Name\bin\Debug\Print-Your-Name.exe.config
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Your-Name\bin\Debug\Print-Your-Name.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Your-Name\bin\Debug\Print-Your-Name.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.pdb
