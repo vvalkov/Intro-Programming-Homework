@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\bin\Debug\Square-Root.exe
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\bin\Debug\Square-Root.pdb
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.exe
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.pdb
