@@ -4,7 +4,6 @@
     {
         static void Main()
         {
-            ushort value = 12345;
-            Console.WriteLine(Math.Sqrt(value));
+            Console.WriteLine(Math.Sqrt(12345));
         }
     }

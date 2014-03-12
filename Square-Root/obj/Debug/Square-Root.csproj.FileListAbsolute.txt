@@ -3,3 +3,8 @@ C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\bin\De
 C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.csprojResolveAssemblyReference.cache
 C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.exe
 C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Square-Root\bin\Debug\Square-Root.exe
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Square-Root\bin\Debug\Square-Root.pdb
+C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Square-Root\obj\Debug\Square-Root.csprojResolveAssemblyReference.cache
