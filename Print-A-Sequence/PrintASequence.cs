@@ -1,19 +1,13 @@
 ﻿using System;
 
-class PrintASequence
+class PrintSequence
 {
     static void Main()
     {
-        for (int i = 2; i < 13; ++i)
+        for (int i = 2, j = -3; i < 12; i = i + 2, j = j - 2)
         {
-            if (i % 2 == 0)
-            {
-                Console.Write(i); Console.Write(",");
-            }
-            else
-            {
-                Console.Write(i * -1); Console.Write(",");
-            }
+            Console.Write(i + ", " + j + ", ");
         }
+        Console.Write(12);
     }
 }
