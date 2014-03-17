@@ -3,3 +3,8 @@ C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programmin
 C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.csprojResolveAssemblyReference.cache
 C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.exe
 C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.pdb
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-Numbers\bin\Debug\Print-Numbers.exe
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-Numbers\bin\Debug\Print-Numbers.pdb
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.exe
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.pdb

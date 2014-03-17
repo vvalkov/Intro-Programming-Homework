@@ -3,3 +3,7 @@ C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programmin
 C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-A-Sequence\obj\Debug\Print-A-Sequence.csprojResolveAssemblyReference.cache
 C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-A-Sequence\obj\Debug\Print-A-Sequence.exe
 C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Print-A-Sequence\obj\Debug\Print-A-Sequence.pdb
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-A-Sequence\bin\Debug\Print-A-Sequence.exe
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-A-Sequence\bin\Debug\Print-A-Sequence.pdb
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-A-Sequence\obj\Debug\Print-A-Sequence.exe
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Print-A-Sequence\obj\Debug\Print-A-Sequence.pdb

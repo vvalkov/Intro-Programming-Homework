@@ -1,1 +1,5 @@
 C:\Users\Tony\Documents\Velizar\C# Basics\Lecture 1 - Introduction to Programming\Homework\Intro-Programming-Homework\Reformat-Code\bin\Debug\Reformat-Code.exe.config
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Reformat-Code\bin\Debug\Reformat-Code.exe
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Reformat-Code\bin\Debug\Reformat-Code.pdb
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Reformat-Code\obj\Debug\Reformat-Code.exe
+C:\Users\UniUser\Documents\velizar\Intro-Programming-Homework\Reformat-Code\obj\Debug\Reformat-Code.pdb
